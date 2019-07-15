@@ -9,7 +9,7 @@
 ### 2. 去掉h(x) = f(x) + x
 [没有](https://www.zybuluo.com/static/img/logo.png)
 ### 3. 如何使用
-代码结构
+代码结构  
 ----model  
 -------SimpleResNet.py  
 ----util  
