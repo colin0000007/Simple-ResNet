@@ -3,7 +3,7 @@
 
 ------
 
-这是一个简单的ResNet实现。使用数据是mnist，堆叠了50个resNet block，每个block由2个全连接层组成。共103层全连接神经网络。
+这是一个简单的ResNet实现。使用数据是mnist，堆叠了50个resNet block，每个block由2个全连接层组成。共102层全连接神经网络。
 ### 1. 直接训练后的效果
 ![avatar](https://raw.githubusercontent.com/colin0000007/Simple-ResNet/master/resNet.png)
 ### 2. 去掉h(x) = f(x) + x，也就是这种残差思想
