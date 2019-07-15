@@ -5,9 +5,9 @@
 
 这是一个简单的ResNet实现。使用数据是mnist，堆叠了50个resNet block，每个block由2个全连接层组成。共103层全连接神经网络。
 ### 1. 直接训练后的效果
-[没有](https://www.zybuluo.com/static/img/logo.png)
+![avatar](https://raw.githubusercontent.com/colin0000007/Simple-ResNet/master/resNet.png)
 ### 2. 去掉h(x) = f(x) + x
-[没有](https://www.zybuluo.com/static/img/logo.png)
+![avatar](https://raw.githubusercontent.com/colin0000007/Simple-ResNet/master/noResnet.png)
 ### 3. 如何使用
 代码结构  
 ----model  
