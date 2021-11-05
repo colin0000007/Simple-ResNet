@@ -21,10 +21,3 @@ datasets.py加载数据的一个工具类
 直接运行simpleResNet.py即可，里面可以修改模型的参数。  
 更详细的解释请直接参考simpleResNet.py中的注释。  
 data放置数据
-
-
-
-广告下。。。用我的AI大师码0415在滴滴云上购买GPU/vGPU/机器学习产品可享受9折优惠，点击www.didiyun.com前往滴滴云官网。
-GPU：https://www.didiyun.com/production/gpu.html
-VGPU：https://www.didiyun.com/production/vgpu.html
-机器学习工作室（DAI）：https://www.didiyun.com/production/dai.html
